@@ -4,7 +4,7 @@ An AI-powered intent agent that converts natural language commands into **valida
 
 This project allows users to write commands like:
 
-> “send 0.1 SUI to 0xabc...”
+> “send 0.1 sui to 0xabc...”
 
 The system uses an AI model **only to interpret intent**, then **strict validation** ensure that no unsafe transaction can be executed.
 
