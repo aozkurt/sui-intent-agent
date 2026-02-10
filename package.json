@@ -1,0 +1,19 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "ts-node src/sendSui.ts"
+  },
+  "dependencies": {
+    "@mysten/sui": "^1.0.0",
+    "dotenv": "^17.2.4",
+    "openai": "^6.18.0",
+    "zod": "^4.3.6"
+  },
+  "devDependencies": {
+    "@types/node": "^20.19.33",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}
