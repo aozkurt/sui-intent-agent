@@ -53,7 +53,6 @@ This design prevents prompt injection, hallucinated actions, and unauthorized tr
 ## Tech Stack
 
 - **TypeScript**
-- **Node.js**
 - **Sui SDK**
 - **OpenAI API**
 - **Zod** (runtime validation)
